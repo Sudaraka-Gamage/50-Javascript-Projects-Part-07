@@ -25,6 +25,7 @@
 
 # Pokedex-UI
 
+![Screenshot (2034)](https://user-images.githubusercontent.com/86683029/197315157-0c458998-96dc-4b89-a75c-55d901d84f53.png)
 
 # Progress-Steps
 
