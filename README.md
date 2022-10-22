@@ -18,7 +18,10 @@
 
 
 # Password-Strength-Backg
-
+![Screenshot (2030)](https://user-images.githubusercontent.com/86683029/197315069-a1941195-c953-4ace-924d-bc4fd1c9be39.png)
+![Screenshot (2031)](https://user-images.githubusercontent.com/86683029/197315076-48947a28-a061-4141-9eb8-fb57297c1adb.png)
+![Screenshot (2032)](https://user-images.githubusercontent.com/86683029/197315080-463a8355-6bf1-4f61-a6de-ef58a7997f2e.png)
+![Screenshot (2033)](https://user-images.githubusercontent.com/86683029/197315088-e5ca7be6-3d16-4ed5-b9ab-57b8078eeae7.png)
 
 # Pokedex-UI
 
